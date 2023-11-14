@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="WeatherTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize the primary color to blue -->
+        <item name="colorPrimary">@color/weatherBlue</item>
+        <!-- Customize the status bar color to a darker shade of blue -->
+        <item name="colorPrimaryDark">@color/darkerWeatherBlue</item>
+        <!-- Customize the background color to a lighter shade of blue -->
+        <item name="android:windowBackground">@color/lighterWeatherBlue</item>
+        <!-- Customize the color of the TextViews to white -->
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+</resources>
